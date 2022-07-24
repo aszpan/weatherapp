@@ -1,0 +1,7 @@
+.weather {
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 15px -3px 20px 3px rgb( 0 0 0 /40%);
+    background-color:#00ffff;
+    margin: 20px auto 20px auto;
+}
